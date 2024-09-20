@@ -12,7 +12,7 @@ This is a simple theme toggle application built with Vite and React. The app all
 
 ## Demo
 
-[Live Demo](#) <!-- Add your deployed GitHub Pages link here -->
+[Live Demo](https://theme-toggle-app.vercel.app/) <!-- Add your deployed GitHub Pages link here -->
 
 ## Getting Started
 
